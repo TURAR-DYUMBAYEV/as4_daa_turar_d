@@ -1,0 +1,9 @@
+{"task":"lcs","a":"","b":"abc"}
+{"task":"merge","sizes":[]}
+{"task":"merge","sizes":[0,0,0]}
+{"task":"tree","n":4,"weights":[-5,-1,-8,-2],"edges":[[0,1],[1,2],[2,3]]}
+{"task":"naive","text":"aaaa","pattern":"aa"}
+{"task":"kmp","text":"abc","pattern":""}
+{"task":"rk","text":"abdj","pattern":"dj"}
+{"task":"suffix","text":"aaaa"}
+{"task":"aho","patterns":["a","aa","a"],"texts":["aaaa",""]}
